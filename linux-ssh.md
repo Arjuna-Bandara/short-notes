@@ -13,5 +13,5 @@ pip install gdown
 ## 2
 gdown https://drive.google.com/uc?id=FILE_ID_LONG_STRING
 
-
-
+## copy files to current
+scp root@143.198.xxx.xxx:/root/file.txt .
